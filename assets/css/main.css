@@ -1,0 +1,72 @@
+h2{
+  margin-left: 10%;
+  color:#FF0080;
+  font-style: italic;
+}
+hr{
+  margin-left: 10%;
+  margin-right: 50%;
+  margin-top: -10px;
+  height: 5px;
+  background-color: #FF0080;
+  border-radius: 1px;
+}
+img{
+  width: 250px;
+  height: 300px;
+}
+h4{
+position: relative;
+float:right;
+bottom:80px;
+right: 5px;
+color:#FF0080;
+font-style: italic;
+text-shadow: 2px 2px 2px #101907;
+
+}
+.imagen{
+  background-color: red;
+  width: 250px;
+  height: 300px;
+  margin-bottom: 10px;
+  position:absolute;
+}
+.uno{
+  left:0;
+  top:0;
+}
+
+.dos{
+left:0;
+bottom:0;
+}
+
+.tres{
+margin-left: 37%;
+}
+
+.cuatro{
+margin-left: 37%;
+bottom:0;
+}
+
+.cinco{
+  right: 0;
+  top:0;
+}
+
+.seis{
+  right: 0;
+  bottom: 0;
+
+  }
+
+  .contenedor{
+    width: 1000px;
+    height: 650px;
+
+    position: relative;
+    margin-left: 10%;
+
+  }
